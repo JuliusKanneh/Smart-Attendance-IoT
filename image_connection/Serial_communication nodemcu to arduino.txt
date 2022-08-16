@@ -1,0 +1,1 @@
+D4(nodemcu)  =====> Rx(arduino)
